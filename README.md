@@ -27,4 +27,5 @@ Provided a scalable solution for real-world construction data analysis
 🚀 Key Highlights
 Built a complete ML pipeline from data preprocessing to model evaluation
 Applied ML techniques to a real-world civil engineering problem
-Improved prediction reliability compared to manual estimation methods
+Improved prediction reliability compared to manual estimation methods.
+--- Built an interactive Streamlit dashboard enabling users to input parameters, generate instant predictions, and visualize results in a user-friendly interface.
